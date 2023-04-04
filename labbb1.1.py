@@ -42,7 +42,6 @@ def calculate_bill(name, cleaning, cavity_filling, xray):
     print("----------------------------")
     print("Subtotal: $", subtotal)
     print("Tax: $", tax)
-    print("Discount: $", discount)
     print("----------------------------")
     print("Total: $", round(total, 2))
 
